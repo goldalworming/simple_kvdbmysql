@@ -1,10 +1,10 @@
 # simple_kvdbmysql
 
 ## install dependencies
-go get github.com/go-sql-driver/mysql
-go get github.com/astaxie/beego
-go get github.com/sdming/gosnow
-go get github.com/bwmarrin/snowflake
+    go get github.com/go-sql-driver/mysql
+    go get github.com/astaxie/beego
+    go get github.com/sdming/gosnow
+    go get github.com/bwmarrin/snowflake
 
 ## read 
 
